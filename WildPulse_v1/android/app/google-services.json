@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359317185047",
+    "project_id": "wildpulse-108a3",
+    "storage_bucket": "wildpulse-108a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359317185047:android:5b6b9158919544afeaf252",
+        "android_client_info": {
+          "package_name": "com.slideshow.wildpulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtoombtwSjVqi_N_S0J7eJO1eTsVKkRog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
